@@ -39,4 +39,4 @@ Items can be removed individually (optional, if you’ve implemented this).
 
 The cart panel can be closed using a close (×) icon.
 
-Live Demo:()
+Live Demo:(https://addcart21.netlify.app/)
